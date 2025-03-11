@@ -1,5 +1,5 @@
-# scRNAseq-of-sCOTR-iNK
-single-cell RNA-seq of synthetic COTR-iNK cells derived from hPSCs
+# scRNAseq-of-sCOTR-iNK  
+single-cell RNA-seq of synthetic COTR-iNK cells derived from hPSCs  
 Title: Synthetic COTR complex empowers iNK cells with intracellular antigen-targeting capability
 
 Summary:  
